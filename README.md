@@ -2,6 +2,6 @@
 
 This is my Camera Effects Project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Maya Chanthavong](https://github.com/mayachanthavong/mayachanthavong.github.io/blob/master/maya%20chanthavong.PNG?raw=true "Optional Title")
 
 ***
